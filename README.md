@@ -1,7 +1,7 @@
 ## Salutations.
 
-### Purpose
-May this page serve as a living journal to display my endeavors in learning the fundamentals and particulars of networking and cybersecurity. In the interim, I'd like to showcase logical topologies and projects built with Cisco Packet Tracer to explore concepts of networking including, but not limited to, static and dynamic IPv4 addressing, subnetting, different routing protocols, and flat and hierarchical network design. I subscribe to the notion that one cannot protect (or attack) what one doesn't know, so it is only reasonable for me to learn the basics of internetworking. Within the subsequent repositories, I will be displaying the logical topologies and device configurations used in the building of these projects along with overviews of concepts explored and the .pkt files for scrutiny's sake (or for those who are on this journey with me and share a similar learning style).
+### Fundamental network protection requires fundamental network understanding.
+May this page serve as a living journal in documenting my learning of basic networking into its more complex concepts of subnetting, design, architecture, configuration, and security.  All projects are built within Cisco Packet Tracer to develop an understanding of said concepts.  Each repository will feature an overview of concepts explored within each project, as well as a logical topology map and device configuration commands used in Cisco IOS.
 
 ###### Disclaimer: I am not the original architect of these projects, but I personally found them to be perfect for my kinesthetic learning style. The source of my projects can be found on the YouTube channel <a href="https://www.youtube.com/@gtechtrainer">Gurutech Trainer</a>. Also, I realize that simulated networking in software is not comparable to working with physical networking hardware - I'm just a little guy.
 
