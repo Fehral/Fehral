@@ -4,5 +4,5 @@ May this page serve as a living journal displaying my endeavors in learning the 
 
 ###### Disclaimer: I am not the original architect of these projects, but I personally found them to be perfect for my kinesthetic learning style. The source of my projects can be found on the YouTube channel <a href="https://www.youtube.com/@gtechtrainer">Gurutech Trainer</a>. Also, I realize that simulated networking in software is not comparable to working with physical networking hardware - I'm just a little guy.
 
-### Networking Projects
+### Network Projects
   * v1: <a href="https://github.com/Fehral/networkprojectv1">Static IPv4 Addressing and Subnetting</a>
