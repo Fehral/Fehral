@@ -10,3 +10,5 @@ May this page serve as a living journal in documenting my learning of basic netw
   * v2: <a href="https://github.com/Fehral/networkprojectv2">VLANs and DHCP</a>
   * v3: <a href="https://github.com/Fehral/networkprojectv3">Hotel Management Network</a>
     * Concepts explored: Serial DCE and DTE, OSPF routing protocol, SSH
+  * v4: University Campus Network
+    * Concepts explored: collapsed core architecture, RIPv2 routing protocol
