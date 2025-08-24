@@ -9,4 +9,4 @@ May this page serve as a living journal in documenting my learning of basic netw
   * v1: <a href="https://github.com/Fehral/networkprojectv1">Static IPv4 Addressing and Subnetting</a>
   * v2: <a href="https://github.com/Fehral/networkprojectv2">VLANs and DHCP</a>
   * v3: <a href="https://github.com/Fehral/networkprojectv3">Hotel Management Network</a>
-    * Concepts explored: Serial DCE, OSPF routing protocol, SSH
+    * Concepts explored: Serial DCE and DTE, OSPF routing protocol, SSH
