@@ -12,3 +12,5 @@ May this page serve as a living journal in documenting my learning of basic netw
     * Concepts explored: Serial DCE and DTE, OSPF routing protocol, SSH
   * v4: <a href="https://github.com/Fehral/networkprojectv4">University Campus Network</a>
     * Concepts explored: collapsed core architecture, RIPv2 routing protocol
+  * v5: <a href="https://github.com/Fehral/networkprojectv5">Banking Network Campus</a>
+    * Concepts exlpored: redundancy, device security, encryption, port security
