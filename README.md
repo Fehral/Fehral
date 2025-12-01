@@ -13,4 +13,6 @@ May this page serve as a living journal in documenting my learning of basic netw
   * v4: <a href="https://github.com/Fehral/networkprojectv4">University Campus Network</a>
     * Concepts explored: collapsed core architecture, RIPv2 routing protocol
   * v5: <a href="https://github.com/Fehral/networkprojectv5">Banking Network Campus</a>
-    * Concepts exlpored: redundancy, device security, encryption, port security
+    * Concepts explored: redundancy, device security, encryption, port security
+  * v6: <a href="https://github.com/Fehral/networkprojectv6">Company Network</a>
+    * Concepts explored: Domain Name System, access control lists
