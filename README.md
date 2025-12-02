@@ -15,4 +15,4 @@ May this page serve as a living journal in documenting my learning of basic netw
   * v5: <a href="https://github.com/Fehral/networkprojectv5">Banking Network Campus</a>
     * Concepts explored: redundancy, device security, encryption, port security
   * v6: <a href="https://github.com/Fehral/networkprojectv6">Company Network</a>
-    * Concepts explored: Domain Name System, access control lists
+    * Concepts explored: Domain Name System, access control lists, Port Address Translation
