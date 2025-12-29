@@ -17,4 +17,6 @@ May this page serve as a living journal in documenting my learning of basic netw
   * v6: <a href="https://github.com/Fehral/networkprojectv6">Company Network</a>
     * Concepts explored: Domain Name System, access control lists, Port Address Translation
   * v7: <a href="https://github.com/Fehral/networkprojectv7">Hospital Network</a>
-    * Concepts exlpored: Virtual Private Networks
+    * Concepts explored: Virtual Private Networks
+  * v8: <a href="https://github.com/Fehral/networkprojectv8">VoIP Network</a>
+    * Concepts explored: VoIP, dial-peering
